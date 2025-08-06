@@ -16,5 +16,13 @@ public class stringMethods {
         name = name.replace("o", "a");
 
         System.out.println(name);
+        // name.equals()
+        // name.equalsIgnoreCase()
+        if (name.contains(" ")) {
+            System.out.println("Your name contains a space");
+        } else {
+            System.out.println("Your name DOESN'T contain any spaces");
+        }
+
     }
 }
