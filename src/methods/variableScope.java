@@ -1,5 +1,7 @@
 // This program demonstrates the concept of variable scope in Java
 
+package methods;
+
 public class variableScope {
 
     // This is a **class-level variable** (also called a global or static variable)

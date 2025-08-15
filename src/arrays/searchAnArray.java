@@ -1,3 +1,5 @@
+package arrays;
+
 public class searchAnArray {
     public static void main(String[] args) {
         // Example 1: Search in integer array

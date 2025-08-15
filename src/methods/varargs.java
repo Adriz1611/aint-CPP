@@ -1,3 +1,5 @@
+package methods;
+
 public class varargs {
     public static void main(String[] args) {
         // varargs = allow a method to accept a varying # of arguments

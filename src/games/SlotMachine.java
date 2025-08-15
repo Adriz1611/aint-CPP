@@ -1,4 +1,6 @@
 import java.util.Scanner;
+package games;
+
 import java.util.Random;
 
 public class SlotMachine {

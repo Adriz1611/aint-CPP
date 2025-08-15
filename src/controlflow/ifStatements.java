@@ -1,3 +1,5 @@
+package controlflow;
+
 import java.util.Scanner;
 
 public class ifStatements {

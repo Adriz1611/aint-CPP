@@ -1,5 +1,7 @@
 package oop.arrayswithobjects;
 
+package oop.arrayswithobjects;
+
 public class arrayOfObjects {
     public static void main(String[] args) {
 //        Car car1 = new Car("Mustang", "Red");

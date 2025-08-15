@@ -1,5 +1,7 @@
 import java.util.Arrays;
 
+package arrays;
+
 public class arrays {
     public static void main(String[] args) {
         // Arrays in Java are objects,

@@ -1,5 +1,7 @@
 package oop.constructors;
 
+package oop.constructors;
+
 public class User {
 
     String username;

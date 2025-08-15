@@ -1,5 +1,7 @@
 package oop.basicclasses;
 
+package oop.basicclasses;
+
 import java.util.Random;
 import java.util.Scanner;
 

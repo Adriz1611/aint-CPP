@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+package operators;
+
 public class logicalOperators {
     public static void main(String[] args) {
         double temp = 20;

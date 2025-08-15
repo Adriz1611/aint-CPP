@@ -1,3 +1,5 @@
+package arrays;
+
 public class twoDArrays {
     public static void main(String[] args) {
         // 2D array = An array where each element is an array

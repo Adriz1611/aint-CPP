@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+package strings;
+
 public class subStringMethods {
     public static void main(String[] args) {
         String email;

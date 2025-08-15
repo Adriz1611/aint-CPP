@@ -1,3 +1,5 @@
+package mathcalculations;
+
 import java.util.Scanner;
 
 public class compoundInterest {

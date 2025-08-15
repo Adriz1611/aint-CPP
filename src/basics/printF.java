@@ -1,3 +1,5 @@
+package basics;
+
 public class printF {
     public static void main(String[] args) {
 
