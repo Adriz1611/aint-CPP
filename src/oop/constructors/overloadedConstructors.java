@@ -1,6 +1,5 @@
 package oop.constructors;
 
-package oop.constructors;
 
 public class overloadedConstructors {
     public static void main(String[] args) {

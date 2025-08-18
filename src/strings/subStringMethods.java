@@ -1,6 +1,6 @@
-import java.util.Scanner;
-
 package strings;
+
+import java.util.Scanner;
 
 public class subStringMethods {
     public static void main(String[] args) {

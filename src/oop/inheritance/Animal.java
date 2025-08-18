@@ -1,7 +1,5 @@
 package oop.inheritance;
 
-package oop.inheritance;
-
 public class Animal extends Organism {
 
     void eat() {

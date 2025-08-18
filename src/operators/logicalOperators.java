@@ -1,6 +1,6 @@
-import java.util.Scanner;
-
 package operators;
+
+import java.util.Scanner;
 
 public class logicalOperators {
     public static void main(String[] args) {

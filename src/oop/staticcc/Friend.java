@@ -1,8 +1,5 @@
 package oop.staticcc;
 
-
-package oop.staticcc;
-
 public class Friend {
     String name;
     static int numOfFriends;

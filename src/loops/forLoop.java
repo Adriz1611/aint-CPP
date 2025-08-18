@@ -1,6 +1,6 @@
-import java.util.Scanner;
-
 package loops;
+
+import java.util.Scanner;
 
 public class forLoop {
     public static void main(String[] args) throws InterruptedException {

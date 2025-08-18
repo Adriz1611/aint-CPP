@@ -1,5 +1,6 @@
-import java.util.Scanner;
 package games;
+
+import java.util.Scanner;
 
 import java.util.Random;
 

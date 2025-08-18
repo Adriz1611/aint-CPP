@@ -1,6 +1,5 @@
 package oop.inheritance;
 
-package oop.inheritance;
 
 public class Cat extends Animal {
 

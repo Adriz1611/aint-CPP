@@ -1,6 +1,5 @@
 package oop.inheritance;
 
-package oop.inheritance;
 
 public class inheritance {
     public static void main(String[] args) {

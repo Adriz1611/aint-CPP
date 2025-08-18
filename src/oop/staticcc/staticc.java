@@ -1,7 +1,5 @@
 package oop.staticcc;
 
-package oop.staticcc;
-
 public class staticc {
     public static void main(String[] args) {
         // static = Makes a variable or method belong to the class

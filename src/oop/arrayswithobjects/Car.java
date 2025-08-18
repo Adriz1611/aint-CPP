@@ -1,7 +1,5 @@
 package oop.arrayswithobjects;
 
-package oop.arrayswithobjects;
-
 public class Car {
     String model;
     String color;
